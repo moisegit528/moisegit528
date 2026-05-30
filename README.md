@@ -21,9 +21,8 @@
 ## 📊 Estatísticas do GitHub
 ![Moises GitHub stats](https://github-readme-stats.vercel.app/api?username=moisegit528&show_icons=true&theme=tokyonight)
 
-
 ## 📈 Linguagens mais usadas
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moisegit528&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moisegit528&layout=compact&theme=tokyonight)
 
 ## 🔥 Streak de commits
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=moisegit528&theme=radical)
