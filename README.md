@@ -48,3 +48,7 @@ Gosto de desafios, café e aprender algo novo todos os dias ☕💻
 
 ### 🔹 Visualizações
 ![Profile Views](https://komarev.com/ghpvc/?username=moisegit528&color=blue&style=for-the-badge)
+
+---
+⭐️ Feito com dedicação por [Moises](https://github.com/moisegit528)
+
