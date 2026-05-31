@@ -14,7 +14,10 @@
 - [Saúde na Palma da Mão](https://github.com/moisegit528/saude-na-palma-da-mao)
 - [Página Fictícia "Mondelez"](https://github.com/moisegit528/landing-page-mondelez)
 
-📫 Me encontre no [LinkedIn](https://www.linkedin.com/in/moises-castro8/) ou veja meu portfólio completo aqui no GitHub!
+📫 Me encontre:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Moises%20Castro-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/moises-castro8)
+[![GitHub](https://img.shields.io/badge/GitHub-moisesgit528-black?style=for-the-badge&logo=github)](https://github.com/moisesgit528)
+
 
 ## 📊 Estatísticas do GitHub
 
