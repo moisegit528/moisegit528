@@ -16,12 +16,14 @@
 
 📫 Me encontre no [LinkedIn](https://www.linkedin.com/in/moises-castro8/) ou veja meu portfólio completo aqui no GitHub!
 
-
 ## 📊 Estatísticas do GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=radical)
 
-## 📈 Linguagens mais usadas
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=seuusuario&layout=compact&theme=radical)
+![Moises GitHub Stats](https://github-readme-stats.vercel.app/api?username=moisesgit528&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+
+## 💻 Linguagens mais usadas
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=moisesgit528&layout=compact&theme=tokyonight)
+
 
 ## 🔥 Streak de commits
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=moisegit528&theme=radical)
